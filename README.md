@@ -1,5 +1,3 @@
 # LastTower2
 
-1. Enable Water Plugin in UE5
-2. Clone Directory from URL
-3. Open LastTower2.uproject in UE5
+https://drive.google.com/file/d/1Y4uKYWauaVL_6sGJd3Hk_ILZWuSK9aIS/view?usp=sharing
